@@ -268,9 +268,17 @@ f .text-uppercase {
 }
 
 .row {
-     display: flex;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;
+    margin: -15px;
+}
+
+.row-2 {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
     align-items: center;
     margin: -15px;
 }
