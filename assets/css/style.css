@@ -378,6 +378,10 @@ f .text-uppercase {
     transform: translateY(-10px);
 }
 
+.feature-box-1:hover h5 {
+    color: #fff;
+}
+
 .feature-box-1:hover .icon {
     color: #fff;
     border: 2px dotted #fff;
