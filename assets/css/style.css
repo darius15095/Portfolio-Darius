@@ -364,7 +364,7 @@ f .text-uppercase {
 .feature-box-1 h5 {
     color: #090a0c;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 22px;
     margin: 0 0 12px;
 }
 
@@ -555,7 +555,7 @@ f .text-uppercase {
     background: #ffffff;
     margin: -30px 10px 0;
     position: relative;
-    padding: 18px;
+    padding: 20px;
     box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.19);
 }
 
